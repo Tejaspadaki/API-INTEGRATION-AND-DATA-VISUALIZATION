@@ -12,6 +12,9 @@
 ## Overview of the Project
 ### Task 1: API Integration and Data Visualization
 
+![api Image](api.png)
+![api2 Image](api2.png)
+
 This project focuses on integrating the OpenWeatherMap API to fetch weather data and visualizing it using Python libraries such as Matplotlib and Seaborn.
 
 ---
